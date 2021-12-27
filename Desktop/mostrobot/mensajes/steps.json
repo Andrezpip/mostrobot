@@ -1,0 +1,65 @@
+{
+    "STEP_1": [
+        "hola",
+        "ola",
+        "ole",
+        "inicio",
+        "welcome",
+        "hola, buenos días",
+        "hola, buenos tardes",
+        "hola, buenos noches",
+        "hola buenos días",
+        "hola buenos tardes",
+        "hola buenos noches",
+        "hola buenas tardes",
+        "buenas noches",
+        "me dieron este número",
+        "venden a crédito",
+        "quisiera saber si venden",
+        "necesito saber"
+    ],
+    "STEP_2": [
+        "catalogo",
+        "productos",
+        "categoría"
+    ],
+    "STEP_3": [
+        "asesor",
+        "asesores",
+        "Vendedor",
+        "cobrador"
+    ],
+    "STEP_4": [
+        "muchas gracias",
+        "ok",
+        "gracias",
+        "vale gracias"
+    ],
+    "STEP_5": [
+        "hacer pedido"
+    ],
+    "STEP_5_5": [
+        "si",
+        "correcto"
+    ],
+    "OPTION_1": [
+        "1",
+        "2",
+        "3",
+        "crear",
+        "crecer"
+    ],
+    "RESPUESTA": [
+        "si",
+        "no"
+    ],
+
+
+
+
+    "ERROR": [
+        "Ups lo siento no puedo comprenderte \n Puedes empezar con un Hola \n funcionaria mejor"
+    ]
+
+    
+}

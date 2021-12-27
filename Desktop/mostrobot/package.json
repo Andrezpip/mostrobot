@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "venom-bot": "https://github.com/orkestral/venom/releases/download/nightly/venom-bot-nightly.tgz"
+  }
+}
